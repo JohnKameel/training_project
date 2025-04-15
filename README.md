@@ -1,4 +1,4 @@
-# new_you
+# training_project
 
 A new Flutter project.
 
